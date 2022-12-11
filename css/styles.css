@@ -1,0 +1,35 @@
+/*----------------------TAG SELECTORS--------------------------*/
+h1 {color : rgb(181, 202, 62)}
+
+div {
+  border: 6px inset #98a62a;
+  height: 200px;
+  margin: 80px;
+  padding: 10px;
+  width: 100px;
+}
+
+body {
+    background-color: lightblue;
+  }
+
+
+
+
+/*----------------------CLASS SELECTORS--------------------------*/
+
+h3:hover {
+    background-color: red;
+}
+
+
+
+
+
+
+
+/*----------------------ID SELECTORS--------------------------*/
+
+/*-
+ID Selectors should be used sparingly
+-*/
